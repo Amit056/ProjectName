@@ -7,6 +7,7 @@ public class Example1 {
 	@Test
 	public void example1()
 	{
+		//
 		int a=10;
 		int b=30;
 		System.out.println(a+b+"new project");
