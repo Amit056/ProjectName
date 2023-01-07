@@ -12,5 +12,6 @@ public class PracticeEx1 {
 		System.out.println(a+b+"new project");
 	Reporter.log("pass", false);
 	Reporter.log("pass", a+b, false);
+	System.out.println("amit kumar ray");
 	}
 }
