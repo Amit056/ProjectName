@@ -3,8 +3,7 @@ package Example;
 import org.testng.Reporter;
 import org.testng.annotations.Test;
 
-//Amit ray 11111
->>>>>>> branch 'master' of https://github.com/Amit056/ProjectName.git
+//Amit ray 2222222
 
 public class PracticeEx1 {
 	@Test
