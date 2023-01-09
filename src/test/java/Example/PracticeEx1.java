@@ -2,9 +2,6 @@ package Example;
 
 import org.testng.Reporter;
 import org.testng.annotations.Test;
-<<<<<<< HEAD
-//Amit ray 099999
-=======
 
 //Amit ray 11111
 >>>>>>> branch 'master' of https://github.com/Amit056/ProjectName.git
