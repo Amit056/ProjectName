@@ -4,11 +4,8 @@ import org.testng.Reporter;
 import org.testng.annotations.Test;
 
 
-<<<<<<< HEAD
-//Amit ray 1121
-=======
-//Amit ray 112233
->>>>>>> branch 'master' of https://github.com/Amit056/ProjectName.git
+//Amit ray 11223344
+
 
 
 public class PracticeEx1 {
